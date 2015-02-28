@@ -1,0 +1,13 @@
+Name = map1;
+Version = 0.1;
+Author = "David Alkire";
+KLL = 0.3;
+
+# Modified Date
+Date = 2015-02-28
+
+# Arrows
+U"RShift" : U"Up";
+U"End" : U"Left";
+U"Function3" : U"Down";
+U"CapsLock" : U"Right";
