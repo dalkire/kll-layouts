@@ -1,4 +1,4 @@
-Name = defaultRemap;
+Name = map0;
 Version = 0.1;
 Author = "David Alkire";
 KLL = 0.3;
@@ -74,7 +74,7 @@ U"Function2" : layerShift(1);
 U"LAlt" : U"LAlt";
 U"LGui" : U"LGui";
 U"Space" : U"Space";
-U"RGui" : U"RGui";
-U"RAlt" : U"RAlt";
+U"RGui" : U"Home";
+U"RAlt" : U"End";
 U"Function3" : U"Function3";
 U"Function4" : U"CapsLock";
