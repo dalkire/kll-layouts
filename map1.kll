@@ -10,7 +10,7 @@ U["A"-"Z"] : U"X";
 U"E" : U"A";
 U"X" : U"Z";
 
-U"Function1" : layerLock(0);
+#U"Function1" : layerLock(0);
 
 # Arrows
 U"RShift" : U"Up";
