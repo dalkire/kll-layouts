@@ -7,7 +7,7 @@ KLL = 0.3;
 Date = 2015-02-28;
 
 # Directions
-U"Ctrl"+U"P" : U"Up";
+U["Ctrl"]+U["P"] : U"Up";
 U"Ctrl"+U"N" : U"Down";
 U"Ctrl"+U"B" : U"Left";
 U"Ctrl"+U"F" : U"Right";
