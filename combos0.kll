@@ -4,10 +4,13 @@ Author = "David Alkire";
 KLL = 0.3;
 
 # Modified Date
-Date = 2015-02-28
+Date = 2015-02-28;
 
+# Directions
 U"Ctrl"+U"P" : U"Up";
 U"Ctrl"+U"N" : U"Down";
 U"Ctrl"+U"B" : U"Left";
 U"Ctrl"+U"F" : U"Right";
+
+# Misc
 U"Ctrl"+U"H" : U"Backspace";

@@ -1,0 +1,19 @@
+Name = partial0;
+Version = 0.1;
+Author = "David Alkire";
+KLL = 0.3;
+
+# Modified Date
+Date = 2015-02-28;
+
+# Number Row
+U"Backtick" : U"Esc";
+
+# Top Row
+
+# Middle Row;
+U"Semicolon" : 'O';
+
+# Bottom Row
+
+# Spacebar Row
