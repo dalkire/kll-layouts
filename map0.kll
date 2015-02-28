@@ -24,7 +24,7 @@ U"Backslash" : U"Backslash";
 #U"Backtick" : U"Esc";
 
 # Top Row
-U'Tab' :U'Tab';
+U"Tab" :U"Tab";
 'Q' : 'Q';
 'W' : 'W';
 'E' : 'F';
