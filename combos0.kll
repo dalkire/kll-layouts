@@ -14,3 +14,11 @@ U"Ctrl"+U"F" : U"Right";
 
 # Misc
 U"Ctrl"+U"H" : U"Backspace";
+
+
+U"Backtick" : U"Esc";
+
+# Top Row
+
+# Middle Row;
+U"Semicolon" : U"O";

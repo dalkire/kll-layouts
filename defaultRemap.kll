@@ -21,7 +21,7 @@ U"Esc" : U"Backtick";
 U"Minus" : U"Minus";
 U"Equal" : U"Equal";
 U"Backslash" : U"Backslash";
-S0x0E : U"Esc"; # Backtick
+#U"Backtick" : U"Esc";
 
 # Top Row
 U"Tab" :U"Tab";
@@ -50,7 +50,7 @@ U"Ctrl" : U"Ctrl";
 'J' : 'N';
 'K' : 'E';
 'L' : 'I';
-S0x27 : U"O"; #Semicolon
+#U"Semicolon" : U"O";
 U"Quote" : U"Quote";
 U"Enter" : U"Enter";
 
