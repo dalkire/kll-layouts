@@ -6,8 +6,14 @@ KLL = 0.3;
 # Modified Date
 Date = 2015-02-28;
 
+U["A"-"Z"] : U"X";
+U"E" : U"A";
+U"X" : U"Z";
+
+U"Function1" : layerLock(0);
+
 # Arrows
 U"RShift" : U"Up";
-U"End" : U"Left";
+U"RAlt" : U"Left";
 U"Function3" : U"Down";
-U"CapsLock" : U"Right";
+U"Function4" : U"Right";
