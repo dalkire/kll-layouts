@@ -50,7 +50,7 @@ U"Ctrl" : U"Ctrl";
 'J' : 'N';
 'K' : 'E';
 'L' : 'I';
-S0x27 : 'O'; #Semicolon
+S0x27 : U"O"; #Semicolon
 U"Quote" : U"Quote";
 U"Enter" : U"Enter";
 
