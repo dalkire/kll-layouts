@@ -1,0 +1,80 @@
+Name = map0;
+Version = 0.1;
+Author = "David Alkire";
+KLL = 0.3;
+
+# Modified Date
+Date = 2015-02-28;
+
+# Number Row
+U"Esc" : U"Backtick";
+'1' : '1';
+'2' : '2';
+'3' : '3';
+'4' : '4';
+'5' : '5';
+'6' : '6';
+'7' : '7';
+'8' : '8';
+'9' : '9';
+'0' : '0';
+U"Minus" : U"Minus";
+U"Equal" : U"Equal";
+U"Backslash" : U"Backslash";
+S0x0E : U"Esc"; # Backtick
+
+# Top Row
+U"Tab" :U"Tab";
+'Q' : 'Q';
+'W' : 'W';
+'E' : 'F';
+'R' : 'P';
+'T' : 'G';
+'Y' : 'J';
+'U' : 'L';
+'I' : 'U';
+'O' : 'Y';
+'P' : U"Semicolon";
+U"LBrace" : U"LBrace";
+U"RBrace" : U"RBrace";
+U"Backspace" : U"Backspace";
+
+# Middle Row
+U"Ctrl" : U"Ctrl";
+'A' : 'A';
+'S' : 'R';
+'D' : 'S';
+'F' : 'T';
+'G' : 'D';
+'H' : 'H';
+'J' : 'N';
+'K' : 'E';
+'L' : 'I';
+S0x27 : 'O'; #Semicolon
+U"Quote" : U"Quote";
+U"Enter" : U"Enter";
+
+# Bottom Row
+U"LShift" : U"LShift";
+'Z' : 'Z';
+'X' : 'X';
+'C' : 'C';
+'V' : 'V';
+'B' : 'B';
+'N' : 'K';
+'M' : 'M';
+U"Comma" : U"Comma";
+U"Period" : U"Period";
+U"Slash" : U"Slash";
+U"RShift" : U"RShift";
+U"Function1" : layerLock(1);
+
+# Spacebar Row
+U"Function2" : layerShift(1);
+U"LAlt" : U"LAlt";
+U"LGui" : U"LGui";
+U"Space" : U"Space";
+U"RGui" : U"Home";
+U"RAlt" : U"End";
+U"Function3" : U"Function3";
+U"Function4" : U"CapsLock";
